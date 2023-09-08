@@ -1,4 +1,3 @@
-# ecommerce_shopping
-Forking sumit's MERN project to its issue for deployment.
+# Buy it Now
 
 The App is deployed at https://sumit-singh-mern.netlify.app
